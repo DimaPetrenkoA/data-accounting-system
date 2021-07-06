@@ -10,4 +10,3 @@
 - Установить пакеты composer: "composer install"
 - Запустить миграцию БД: "php artisan migrate"
 - Создать пользователя: "php artisan orchid:admin {nickname} {your@mail.ru} {password}"
-- php artisan orchid:admin admin admin@admin.admin admin
